@@ -1,58 +1,17 @@
-Contribution: 2011-02-16 20:00
+# Welcome to MS Teams Clone!
 
-Contribution: 2011-02-16 20:01
+### [Example Website](https://chat-app-jsmastery.netlify.app)
 
-Contribution: 2011-02-16 20:02
+![Teams Build with Chat Engine](https://i.ibb.co/vDhx8Md/Whats-App-Image-2021-01-26-at-02-01-43.jpg)
 
-Contribution: 2011-02-16 20:03
+## Introduction
 
-Contribution: 2011-02-21 20:00
+This is a Microsoft Teams clone built with React JS and [Chat Engine](https://chatengine.io)!
 
-Contribution: 2011-02-21 20:01
+React JS is the programming language of choice, and Chat Engine is a set of APIs and UI Kit specific to chat.
 
-Contribution: 2011-02-21 20:02
+Its a good example of learning react and creating something production ready!
 
-Contribution: 2011-02-22 20:00
+## Want to build this too?
 
-Contribution: 2011-02-22 20:01
-
-Contribution: 2011-02-22 20:02
-
-Contribution: 2011-02-22 20:03
-
-Contribution: 2011-02-22 20:04
-
-Contribution: 2011-03-03 20:00
-
-Contribution: 2011-03-03 20:01
-
-Contribution: 2011-03-03 20:02
-
-Contribution: 2011-03-03 20:03
-
-Contribution: 2011-03-04 20:00
-
-Contribution: 2011-03-04 20:01
-
-Contribution: 2011-03-04 20:02
-
-Contribution: 2011-03-08 20:00
-
-Contribution: 2011-03-08 20:01
-
-Contribution: 2011-03-08 20:02
-
-Contribution: 2011-03-08 20:03
-
-Contribution: 2011-03-09 20:00
-
-Contribution: 2011-03-09 20:01
-
-Contribution: 2011-03-09 20:02
-
-Contribution: 2011-03-09 20:03
-
-Contribution: 2011-03-11 20:00
-
-Contribution: 2011-03-11 20:01
-
+Watch the video where we build Microsoft Teams [here](https://www.youtube.com/watch?v=jcOKU9f86XE)
